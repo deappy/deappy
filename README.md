@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python, Java**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, python**
 
 - 📫 How to reach me **akshay.deappy@gmail.com**
 
