@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C, Python, HTML, CSS, JS**
 
-- 💬 Ask me about **C, python**
-
 - 📫 How to reach me **akshay.deappy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
