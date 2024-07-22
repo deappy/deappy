@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.e426702edf874b181aced1e2fa5c6cde?pid=1.7&rurl=https%3a%2f%2finstitute.careerguide.com%2fwp-content%2fuploads%2f2020%2f10%2fe426702edf874b181aced1e2fa5c6cde.gif&ehk=x2CFTZ4X13CVoYa7MJvpyYvaxV5z9ZSqvRK3HLTD%2fqo%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deappy&label=Profile%20views&color=0e75b6&style=flat" alt="deappy" /> </p>
 
-- 🌱 I’m currently learning **C, Python, HTML, CSS, JS**
+- 🌱 I’m currently learning **C, Python, HTML, CSS, JS, Node, React, PostgreSQL, Web3 and DApps**
 
 - 📫 How to reach me **akshay.deappy@gmail.com**
 
