@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="www.linkedin.com/in/akshay-raju-8485b0374"  />
+  <img src="https://medium.com/@deappy" height="25" alt="medium logo"  />
 </div>
 
 ###
