@@ -27,7 +27,7 @@
 
 <p align="left"># Hi, I'm Akshay Raju 👋  <br><br>🌍 From Bangalore, Karnataka, India  <br>💻 Aspiring **Java Full Stack Developer** | AIML Engineer in progress  <br><br>- 🔭 I’m working on enhancing my skills through projects in **Java, Spring Boot, and Web Development**  <br>- 📚 Currently learning **Java Full Stack Web Development** <br>- ⚡ In my free time I explore **Machine Learning projects**, watch anime, and learn about **cars & technology** 🚗  <br><br>---<br><br>
 ### 🚀 Tech Stack  <br>- **Languages:** Java, Python<br>- **Web Development:** HTML, CSS, JavaScript, React  <br>- **Backend:** Spring Boot, MySQL  <br>- **Other Interests:** Machine Learning, Data Science  <br><br>---<br><br>
-### 📫 Connect with me  <br>- [LinkedIn](www.linkedin.com/in/akshay-raju-8485b0374)  <br>-   <br><br>---<br>⭐️ *“Consistency beats talent when talent doesn’t stay consistent.”*</p>
+### 📫 Connect with me  <br>- [LinkedIn](www.linkedin.com/in/akshay-raju-8485b0374)  <br>   <br><br>---<br>⭐️ *“Consistency beats talent when talent doesn’t stay consistent.”*</p>
 
 ###
 
