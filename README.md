@@ -107,13 +107,13 @@ Python → FastAPI → PostgreSQL → Docker → GCP Cloud Run → React → ML 
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deappy&show_icons=true&theme=dark&hide_border=false&border_radius=5&cache_seconds=1800" height="150" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=deappy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deappy&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deappy&show_icons=true&theme=dark&hide_border=false&border_radius=5&cache_seconds=1800" height="150" alt="github stats" />
 </div>
 
 ---
