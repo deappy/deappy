@@ -25,9 +25,62 @@
 
 ###
 
-<p align="left"># Hi, I'm Akshay Raju 👋  <br><br>🌍 From Bangalore, Karnataka, India  <br>💻 Aspiring **Java Full Stack Developer** | AIML Engineer in progress  <br><br>- 🔭 I’m working on enhancing my skills through projects in **Java, Spring Boot, and Web Development**  <br>- 📚 Currently learning **Java Full Stack Web Development** <br>- ⚡ In my free time I explore **Machine Learning projects**, watch anime, and learn about **cars & technology** 🚗  <br><br>---<br><br>
-### 🚀 Tech Stack  <br>- **Languages:** Java, Python<br>- **Web Development:** HTML, CSS, JavaScript, React  <br>- **Backend:** Spring Boot, MySQL  <br>- **Other Interests:** Machine Learning, Data Science  <br><br>---<br><br>
-### 📫 Connect with me  <br>- [LinkedIn](www.linkedin.com/in/akshay-raju-8485b0374)  <br>   <br><br>---<br>⭐️ *“Consistency beats talent when talent doesn’t stay consistent.”*</p>
+# Akshay Raju
+
+🌍 Bangalore, India  
+💻 System Engineer @ TCS | AIML Graduate
+
+---
+
+I build what I believe in.
+The work speaks when it's ready.
+
+---
+
+## What I Do
+
+- Managing enterprise data pipelines for **Deutsche Bank**
+  using **Informatica PowerCenter** and **Shell Scripting**
+- Building a **Fitness RPG Web App** — solo, end to end
+- Transitioning from enterprise systems →
+  full stack cloud development on **GCP**
+
+---
+
+## 🛠️ Stack
+
+**Using daily:**
+Python | SQL | Shell Scripting | Informatica PowerCenter
+
+**Building with:**
+FastAPI | PostgreSQL | Docker | GCP Cloud Run | React
+
+**Learning:**
+scikit-learn | Vertex AI | Lottie | Konva.js
+
+---
+
+## 🚧 In Progress
+
+### Fitness RPG App
+An anime-style fitness app where your character
+levels up based on real gym consistency.
+Workout recommendations. Pain-aware planning.
+Streak system. Real progress.
+
+> Python → FastAPI → PostgreSQL → GCP → React → ML
+
+*(Ships when it's worth showing)*
+
+---
+
+## 📫
+[LinkedIn](https://www.linkedin.com/in/akshay-raju-8485b0374)
+
+---
+
+> *"Consistency beats talent when talent doesn't
+>  stay consistent."*
 
 ###
 
