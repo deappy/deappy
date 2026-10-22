@@ -14,7 +14,7 @@
 
 ### About
 
-- 🏦 I work in **production support for a Tier-1 global bank's Data Integration Service** at TCS: about 15 Linux servers across 3 regions, running Informatica ETL scheduled by Control-M
+- 🏦 I work as a **Middleware Platform Engineer at TCS on a Tier-1 global bank’s Data Integration Service**: about 15 Linux servers across 3 regions, running Informatica ETL scheduled by Control-M
 - 🛠️ I handle incidents (SSL, SFTP, Informatica failures), monitor ETL batches, and run ITIL change and problem management
 - 🎯 I'm moving into **data engineering**, building pipelines on the same patterns I support at work, with an open-source stack
 - 🎓 B.E. in Artificial Intelligence & Machine Learning
